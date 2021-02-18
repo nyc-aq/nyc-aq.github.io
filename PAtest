@@ -1,0 +1,9 @@
+---
+layout: archive
+title: "WHEELS 1 Widget"
+permalink: /patest.html
+author_profile: true
+---
+
+<div id='PurpleAirWidget_58657_module_PM25_conversion_C1_average_60_layer_standard'>Loading PurpleAir Widget...</div>
+<script src='https://www.purpleair.com/pa.widget.js?key=WHHS73PN4A4WDJLM&module=PM25&conversion=C1&average=60&layer=standard&container=PurpleAirWidget_58657_module_PM25_conversion_C1_average_60_layer_standard'></script>
