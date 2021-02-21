@@ -1,6 +1,4 @@
-# NYC Air Quality
-
-## Welcome to GitHub Pages
+## NYC Air Quality
 
 You can use the [editor on GitHub](https://github.com/nyc-aq/nyc-aq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
